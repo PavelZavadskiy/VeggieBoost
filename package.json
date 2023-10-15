@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "veggie-boost",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-team-15-htmlcss/",
+    "build": "vite build --base=/VeggieBoost/",
     "preview": "vite preview"
   },
   "devDependencies": {
